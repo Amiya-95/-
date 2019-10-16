@@ -42,7 +42,7 @@
 <details>
 <summary>第1次作业</summary>
 <mark><font color=darkred>
-  ![个人数据](https://github.com/Amiya-95/homework/blob/master/%E7%8E%8B%E8%A8%80%20%E6%95%B0%E6%8D%AE%E8%AE%B0%E5%BD%95.jpg)
+  ![图片](https://github.com/Amiya-95/-.github.io/blob/master/%E7%8E%8B%E8%A8%80%20%E6%95%B0%E6%8D%AE%E8%AE%B0%E5%BD%95.jpg)
   
 &emsp;&emsp;在本次数据的记录和与其他同学的交流中，我更明显地意识到生活中所有事情都是可以以数据的形式进行收集的，而不仅仅是一些类似数据新闻、市场分析的大事才有必要进行数据统计，这也加深了我对数据的敏感，希望今后能在这一方面学到更多。
 
