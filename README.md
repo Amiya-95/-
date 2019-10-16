@@ -1,5 +1,5 @@
 <details>
-<summary>第三次作业</summary>
+<summary>第3次作业</summary>
 <mark><font color=darkred>
   [数据集]（https://www.kaggle.com/eliasdabbas/gold-reserves-by-country-quarterly）
   
@@ -10,13 +10,31 @@
 </font></mark></summary>
 </details>
 
-
+<details>
+<summary>第2次作业</summary>
+<mark><font color=darkred>
+1.[《上海市公共数据和一网通办管理办法》](http://wap.sh.gov.cn/nw2/nw2314/nw2319/nw2407/nw45024/u26aw62638.html)《福建省政务数据管理办法》《成都市公共数据管理应用规定》《政府信息公开条例》等。   
+  参考链接：http://www.pkulaw.cn/fulltext_form.aspx?Gid=1510206959
+  北京市政务数据资源网，上海市政府数据服务网，开放广东，广州市政府数据统一开放平台，苏州市政府数据开放平台，浙江政务服务网“数据开放”专题网站等。
+  参考链接：http://www.tanmer.com/blog/451
+2.2012：8.1%，7.6%，7.4%，7.9%
+  2013：7.7%，7.6%，7.7%，7.7%
+  2014：7.4%，7.5%，7.3%，7.4%
+  2015：7.0%，7.0%，6.9%，6.8%
+  2016：6.7%，6.7%，6.7%，6.8%
+  2017：6.8%，6.8%，6.7%，6.7%
+  2018：6.8%，6.7%，6.5%，6.4%
+  统计指标：国内生产总值当季值
+  数据页面：http://data.stats.gov.cn/easyquery.htm?cn=B01
+  计算步骤：用当季度GDP减去上季度GDP，再除以上季度GDP即可
+</font></mark></summary>
+</details>
 
 
 
 
 <details>
-<summary>第一次作业</summary>
+<summary>第1次作业</summary>
 <mark><font color=darkred>
 &emsp;&emsp;在本次数据的记录和与其他同学的交流中，我更明显地意识到生活中所有事情都是可以以数据的形式进行收集的，而不仅仅是一些类似数据新闻、市场分析的大事才有必要进行数据统计，这也加深了我对数据的敏感，希望今后能在这一方面学到更多。
 
