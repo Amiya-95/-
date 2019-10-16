@@ -6,6 +6,9 @@
   使用工具：图表秀、文图、百度图说
   
   呈现：
+  ![图表秀](https://github.com/Amiya-95/homework/blob/master/%EF%BC%88%E5%9B%BE%E8%A1%A8%E7%A7%80%EF%BC%89%E9%83%A8%E5%88%86%E6%AC%A7%E6%B4%B2%E5%9B%BD%E5%AE%B61961-2018%E9%BB%84%E9%87%91%E5%82%A8%E5%A4%87.png)
+  ![文图](https://github.com/Amiya-95/homework/blob/master/%EF%BC%88%E6%96%87%E5%9B%BE%EF%BC%89%E9%83%A8%E5%88%86%E6%AC%A7%E6%B4%B2%E5%9B%BD%E5%AE%B62001-2018%E9%BB%84%E9%87%91%E5%82%A8%E5%A4%87.jpg)
+  ![百度图说](https://github.com/Amiya-95/homework/blob/master/%EF%BC%88%E7%99%BE%E5%BA%A6%E5%9B%BE%E8%AF%B4%EF%BC%89%E9%83%A8%E5%88%86%E6%AC%A7%E6%B4%B2%E5%9B%BD%E5%AE%B61961-2018%E9%BB%84%E9%87%91%E5%82%A8%E9%87%8F.png)
 &emsp;&emsp;
 </font></mark></summary>
 </details>
@@ -41,7 +44,7 @@
 
 <details>
 <summary>第1次作业</summary>
-![image](https://github.com/Amiya-95/-.github.io/blob/master/%E7%8E%8B%E8%A8%80%20%E6%95%B0%E6%8D%AE%E8%AE%B0%E5%BD%95.jpg)
+![个人数据](https://github.com/Amiya-95/-.github.io/blob/master/%E7%8E%8B%E8%A8%80%20%E6%95%B0%E6%8D%AE%E8%AE%B0%E5%BD%95.jpg)
   
 <mark><font color=darkred>  
 &emsp;&emsp;在本次数据的记录和与其他同学的交流中，我更明显地意识到生活中所有事情都是可以以数据的形式进行收集的，而不仅仅是一些类似数据新闻、市场分析的大事才有必要进行数据统计，这也加深了我对数据的敏感，希望今后能在这一方面学到更多。
