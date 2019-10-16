@@ -13,7 +13,7 @@
 <details>
 <summary>第2次作业</summary>
 <mark><font color=darkred>
-1.《[上海市公共数据和一网通办管理办法](http://wap.sh.gov.cn/nw2/nw2314/nw2319/nw2407/nw45024/u26aw62638.html)》《福建省政务数据管理办法》《成都市公共数据管理应用规定》《政府信息公开条例》等。
+1.《上海市公共数据和一网通办管理办法》(http://wap.sh.gov.cn/nw2/nw2314/nw2319/nw2407/nw45024/u26aw62638.html) 《福建省政务数据管理办法》《成都市公共数据管理应用规定》《政府信息公开条例》等。
   
   参考链接：http://www.pkulaw.cn/fulltext_form.aspx?Gid=1510206959
   
