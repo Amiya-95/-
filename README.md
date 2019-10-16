@@ -1,4 +1,21 @@
 <details>
+<summary>第三次作业</summary>
+<mark><font color=darkred>
+  [数据集]（https://www.kaggle.com/eliasdabbas/gold-reserves-by-country-quarterly）
+  
+  使用工具：图表秀、文图、百度图说
+  
+  呈现：
+&emsp;&emsp;
+</font></mark></summary>
+</details>
+
+
+
+
+
+
+<details>
 <summary>第一次作业</summary>
 <mark><font color=darkred>
 &emsp;&emsp;在本次数据的记录和与其他同学的交流中，我更明显地意识到生活中所有事情都是可以以数据的形式进行收集的，而不仅仅是一些类似数据新闻、市场分析的大事才有必要进行数据统计，这也加深了我对数据的敏感，希望今后能在这一方面学到更多。
