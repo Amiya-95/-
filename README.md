@@ -3,6 +3,7 @@
 <mark><font color=darkred> 
 
 ![数据呈现](https://github.com/Amiya-95/homework/blob/master/%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%8A%AF%E7%BD%AA%E8%A2%AB%E5%91%8A%E4%BA%BA%E5%AE%B6%E5%BA%AD%E7%BB%93%E6%9E%84.jpg)
+![数据呈现](https://github.com/Amiya-95/homework/blob/master/%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%8A%AF%E7%BD%AA%E8%A2%AB%E5%91%8A%E4%BA%BA%E5%AE%B6%E5%BA%AD%E7%BB%93%E6%9E%84.jpg)
  
 &emsp;&emsp;近年来，未成年人犯罪的话题越发受到社会的关注。尽管在案件数量上呈现逐年递减的趋势，但案件整体表现出低龄化、团伙化、成人化等特点，成为影响社会稳定的因素之一。同时，部分恶性案件中嫌疑人的作案动机、手段及其反应与其未成年人的身份形成巨大反差，在另社会震惊之余，更能引起人们的思考。许多人开始反思《未成年人保护法》对未成年人的减刑是否一定程素上纵容了未成年犯罪；同时，关于未成年人教育的反思也受到了更多人的重视。本文将从家庭、学校和社会三个角度分别展开分析，以期能为未成年人教育事业提供参考。
 
