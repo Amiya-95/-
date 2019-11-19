@@ -1,4 +1,20 @@
 <details>
+<summary>期末作业想法</summary>
+<mark><font color=darkred> 
+   
+&emsp;&emsp;我现阶段的打算时做环境卫生相关的主题，具体未定。因为一方面是对这类话题比较感兴趣；二是相关数据集较多，可供参考选取的资料广泛；三是个人感觉可以展开讨论的点比较多，能更好地完成数据报道和分析，做到内容充分且有质量保证，也有找到的新意报道点的可能与灵活性。具体的选题、报道和呈现方式还要看具体的数据和内容而定。
+
+</font></mark></summary>
+</details>
+
+
+
+
+
+
+
+
+<details>
 <summary>第5次作业</summary>
 <mark><font color=darkred> 
 
