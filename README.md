@@ -5,21 +5,23 @@
 ![数据呈现](https://github.com/Amiya-95/homework/blob/master/%E4%BA%BA%E5%9D%87%E8%83%BD%E6%BA%90%E6%B6%88%E8%80%97%EF%BC%88%E6%B2%B9%E5%BD%93%E9%87%8F%EF%BC%89.png)
 ![数据呈现](https://github.com/Amiya-95/homework/blob/master/R%E7%9F%B3%E6%B2%B9%E5%BD%93%E9%87%8F.jpg)
 
-代码：getwd()
-setwd("D:/可视化课/数据")
-data<-read.csv("shiyou.csv")
-data
-library(ggplot2)
+代码：  
+getwd()  
+setwd("D:/可视化课/数据")  
+data<-read.csv("shiyou.csv")  
+data  
+library(ggplot2)  
 ggplot(data,aes(年份,人均石油当量))+geom_line()
 
 ![数据呈现](https://github.com/Amiya-95/homework/blob/master/%E6%8A%95%E8%B5%84.jpg)
 ![数据呈现](https://github.com/Amiya-95/homework/blob/master/R%E6%8A%95%E8%B5%84%E5%8D%A0%E6%AF%94.jpg)
 
-代码：getwd()
-setwd("D:/可视化课/数据")
-data<-read.csv("清洁能源.csv")
-data
-library(ggplot2)
+代码：  
+getwd()  
+setwd("D:/可视化课/数据")  
+data<-read.csv("清洁能源.csv")  
+data  
+library(ggplot2)  
 ggplot(data,aes(x = 技术,y = 投资占比,fill = 国家))+
   geom_col()
  
