@@ -1,6 +1,7 @@
 <details>
 <summary>R作业补交</summary>
 <mark><font color=darkred> 
+
 ![软件作图](https://github.com/Amiya-95/homework/blob/master/%E4%BA%BA%E5%9D%87%E8%83%BD%E6%BA%90%E6%B6%88%E8%80%97%EF%BC%88%E6%B2%B9%E5%BD%93%E9%87%8F%EF%BC%89.png)
 ![R作图](https://github.com/Amiya-95/homework/blob/master/%E4%BA%BA%E5%9D%87%E7%9F%B3%E6%B2%B9%E5%BD%93%E9%87%8F.pdf)
 代码：getwd()
@@ -19,6 +20,7 @@ data
 library(ggplot2)
 ggplot(data,aes(x = 技术,y = 投资占比,fill = 国家))+
   geom_col()
+ 
 </font></mark></summary>
 </details>
 
